@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+  color:navy;
+  font-family: monospace;
+  font-size: 18px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+h1 {
+  font-size: 40pt;
+  font-family: "Times";
+  
+}
+
+h2{
+  font-size: 25pt;
+  font-family: "Times";
+}
